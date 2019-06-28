@@ -1,6 +1,6 @@
 # WindsorTests
 
-Contrains my experiments with windsor:
+Contains my experiments with windsor:
 
 # Support for LifeTimeBoundTo for multiple items
 
